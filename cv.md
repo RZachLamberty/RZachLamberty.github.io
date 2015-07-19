@@ -60,6 +60,7 @@ Battalion Tutor, University of Notre Dame Navy ROTC, January 2007 - January 2008
 
 
 ## Technical Experience
-+ programming and scripting languages (in order of familiarity): python, bash, R, SQL, PostgreSQL, C++, Java, C, C#, Mathematica, MATLAB, FORTRAN
-+ libraries and packages: scientific python stack (NumPy, SciPy, Pandas, scikit-learn), google protocol buffers, C++ Boost, python web development flask
++ programming and scripting languages (in order of familiarity): python, bash, R, SQL, PostgreSQL, xpath, C++, Java, C, C#, Mathematica, MATLAB, FORTRAN
++ libraries and packages: scientific python stack (NumPy, SciPy, Pandas, scikit-learn), python visualization and display (matplotlib, plotly, ipython notebooks), C++ Boost, python web development (flask, tornado)
 + programming tools: emacs, vim, Eclipse, putty, git, github, linux os (mostly debian) utilities, (s)ftp, atlassian products (JIRA, Confluence), maven
++ data formats / transports / protocols: xml, soap, RESTful APIs, json, yaml, kml, geojson, google protocol buffers, snmp, FIX

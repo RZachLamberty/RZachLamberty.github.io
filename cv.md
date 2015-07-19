@@ -6,21 +6,24 @@ permalink: /cv/
 ## R Zachary Lamberty
 MS in theoretical physics, [Cornell Laboratory for Solid State Physics](http://www.lassp.cornell.edu/)
 
-Advisor: [Christopher Henley](http://www.lassp.cornell.edu/clh/) (1955 - [2015](http://www.lassp.cornell.edu/news/2015-07/physics-professor-chris-henley-dies-59)
+Advisor: [Christopher Henley](http://www.lassp.cornell.edu/clh/) (1955 - [2015](http://www.lassp.cornell.edu/news/2015-07/physics-professor-chris-henley-dies-59))
 
 ## Education
 
-### Cornell University (Ithaca, NY)
-+ Master of Science, Theoretical Physics (minor emphasis experimental physics)
-+ National Science Foundation Graduate Research Fellowship
-+ 3.86 GPA
-+ October 2012
+**Cornell University** (Ithaca, NY)
 
-### University of Notre Dame (Notre Dame, IN)
-+ Bachelor of Science (magna cum laude), Physics and Mathematics
-+ Minor Emphasis in College of Arts & Letters and Science Honors Program
-+ 3.88 GPA
-+ January 2008
+Master of Science, Theoretical Physics (minor emphasis experimental physics)
+National Science Foundation Graduate Research Fellowship
+3.86 GPA
+October 2012
+
+
+**University of Notre Dame** (Notre Dame, IN)
+
+Bachelor of Science (magna cum laude), Physics and Mathematics
+Minor Emphasis in College of Arts & Letters and Science Honors Program
+3.88 GPA
+January 2008
 
 ## Research interests
 Models and simulations of order-from-disorder systems and exotic quantum states, with an emphasis on highly frustrated magnetism.

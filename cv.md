@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Curriculum Vitae
 permalink: /cv/
 ---
 
 ## R Zachary Lamberty
 MS in theoretical physics, [Cornell Laboratory for Solid State Physics](http://www.lassp.cornell.edu/)
+
 Advisor: [Christopher Henley](http://www.lassp.cornell.edu/clh/) (1955 - [2015](http://www.lassp.cornell.edu/news/2015-07/physics-professor-chris-henley-dies-59)
 
 ## Education

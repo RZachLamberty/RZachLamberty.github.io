@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /resume
+permalink: /resume/
 ---
 
 ## R Zachary Lamberty

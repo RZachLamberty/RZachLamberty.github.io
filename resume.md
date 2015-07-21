@@ -4,11 +4,11 @@ permalink: /resume
 ---
 
 ## R Zachary Lamberty
-[r.zach.lamberty@gmail.com](mailto:r.zach.lamberty@gmail.com)
+[r.zach.lamberty@gmail.com](mailto:r.zach.lamberty@gmail.com)  
 (574) 514 - 1012
 
 ## Profile
-I am a passionate and resourceful problem solver with analytical acumen and experience in high-performance, rapid-response environments. I am looking for the opportunity to apply my analytic, strategic, and computational skills to fast-paced, real-world problems by developing robust, useful, and creative applications. My primary skills are:
+I am a passionate and resourceful problem solver with analytical acumen and experience in high-performance, rapid-response environments. I am looking for the opportunity to apply my analytic, strategic, and computational skills to fast-paced, real-world problems by developing robust, useful, and creative applications. My primary skills are:  
 + Creative, flexible, and rapid problem analysis and response
 + An ability to learn anything, proficiently and quickly.
 + A no-nonsense, can-do attitude toward group problem solving
@@ -30,23 +30,23 @@ I am a passionate and resourceful problem solver with analytical acumen and expe
 + In one year, became the only dev in the organization to understand and develop for all of our systems from installation to standard use cases, and am primarily responsible for half of them.
 
 ## Education
-**Cornell University, Ithaca, NY**
-Master of Science, Theoretical Physics (minor emphasis experimental physics), October 2013
-National Science Foundation Graduate Research Fellow
+**Cornell University, Ithaca, NY**  
+Master of Science, Theoretical Physics (minor emphasis experimental physics), October 2013  
+National Science Foundation Graduate Research Fellow  
 3.86 GPA
 
 
-**University of Notre Dame, Notre Dame, IN**
-Bachelor of Science (magna cum laude), Physics and Mathematics, January 2008
-Minor Emphasis in College of Arts & Letters and Science Honors Program
+**University of Notre Dame, Notre Dame, IN**  
+Bachelor of Science (magna cum laude), Physics and Mathematics, January 2008  
+Minor Emphasis in College of Arts & Letters and Science Honors Program  
 3.88 GPA
 
 
 ## Other Experience
-**Research Assistant, Cornell University**, Ithaca, NY 14851, June 2009 - August 2013
-**Teaching Assistant, Cornell University**, Ithaca, NY 14851, August 2008 - June 2010
-**Science Education Outreach Volunteer**, January 2008 - August 2013
-**Executive Member, Physics Graduate Society**, Ithaca, NY 14851, May 2009 - August 2013
+**Research Assistant, Cornell University**, Ithaca, NY 14851, June 2009 - August 2013  
+**Teaching Assistant, Cornell University**, Ithaca, NY 14851, August 2008 - June 2010  
+**Science Education Outreach Volunteer**, January 2008 - August 2013  
+**Executive Member, Physics Graduate Society**, Ithaca, NY 14851, May 2009 - August 2013  
 
 ## Skills and Strengths
 ### Software Development

@@ -9,6 +9,7 @@ permalink: /resume/
 
 ## Profile
 I am a passionate and resourceful problem solver with analytical acumen and experience in high-performance, rapid-response environments. I am looking for the opportunity to apply my analytic, strategic, and computational skills to fast-paced, real-world problems by developing robust, useful, and creative applications. My primary skills are:  
+
 + Creative, flexible, and rapid problem analysis and response
 + An ability to learn anything, proficiently and quickly.
 + A no-nonsense, can-do attitude toward group problem solving
@@ -17,6 +18,7 @@ I am a passionate and resourceful problem solver with analytical acumen and expe
 
 ## Primary Professional Experience
 **Software Developer**, Achievement Asset Management (N&eacute;e Peak6 Investments), Chicago, IL, Sep. 2013 - present
+
 + Extensive real-world experience developing in the Python programming language
 + Went from having no finance or real-world dev experience to being a trusted source of information on myriad topics in the day-to-day operation of a highly successful hedge fund by asking thoughtful questions, actively participating in discussions, conferences, and training, and researching independently;
 + Have been described by managers and coworkers as having "great attention to detail," a "genuine interest", and being "reliable," "an excellent learner," "responsible," a "future leader," and "our favorite dev to work with;"
@@ -50,6 +52,7 @@ Minor Emphasis in College of Arts & Letters and Science Honors Program
 
 ## Skills and Strengths
 ### Software Development
+
 + Continually sought to expand my proficiency in the Python programming language
 + Focused on increasing knowledge of DevOps monitoring practices and collaborative tech team workflow processes by consulting with teammates and mentors on best practices
 + Experienced myriad of development environments (e.g., multiple operating systems, multiple languages, open source vs. proprietary code, vendor vs. in-house software, long-term vs. high-urgency devlopment)
@@ -60,6 +63,7 @@ Minor Emphasis in College of Arts & Letters and Science Honors Program
 Management, OpenStaars Reconciliation Tool). Have used multiple serialization and message protocols (Google protocol buffers, xml, html, json, etc).
 
 ### Analysis
+
 + Independently developed business usage reporting to make successful recommendations on license purchasing and usage
 + Approached multi-institution processes (reporting, clearing, and file transfer among multiple vendors), identified the key technical requirements, and created a highly reliable framework meeting all business needs
 + Designed and constructed advanced computer simulations (involving state-of-the-art classical and quantum Monte Carlo techniques) to study physical systems
@@ -70,12 +74,14 @@ Management, OpenStaars Reconciliation Tool). Have used multiple serialization an
 + Designed and implemented a strategic long-term plan for answering advanced scientific research questions in the field of highly frustrated magnets
 
 ### Problem Solving
+
 + Developed a novel family of models to analyze unsolved and intractable physical phenomena
 + Learned several programming languages and tools (Python, C/C++, FORTRAN, Git, Mathematica, Google's Protocol Buffers, OpenGL) independently to solve problems and advance analysis capabilities
 + Posed an advanced scientific question, produced results, and published those results
 + Learned and implemented computational methods which allowed for effective calculations of research problems too computationally difficult for traditional methods
 
 ### Communication
+
 + Cultivated positive, friendly, and professional relationships with everyone with whom I've worked
 + Effectively communicated ideas concisely and completely in high-stress environments
 + Established professional relationships with developers and vendors at professional conferences
@@ -85,6 +91,7 @@ Management, OpenStaars Reconciliation Tool). Have used multiple serialization an
 + Designed, managed, and taught sections for four Cornell University science courses, three of which were aimed at non-scientist audiences
 
 ### Leadership and Collaboration
+
 + Worked in highly-collaborative five- and six-person teams of developers at Peak6.
 + Successfuly lead tech team projects (such as a long-term reconciliation revamping for total return swap processing) by clearly communicating expectations and constantly following up about tech team progress and business satisfaction and desires.
 + Mediated interpersonal conflict as assistant rector at Notre Dame by facilitating conversations and diffusing emotional situations
@@ -97,6 +104,7 @@ Management, OpenStaars Reconciliation Tool). Have used multiple serialization an
 + Repaired a weakness in the physics graduate student curriculum by creating a for-credit summer reading course
 
 ### Other Activities
+
 + Ithaca Big Brothers Big Sisters volunteer
 + American Physical Society member
 + Cornell Intramural Flag Football Champion

@@ -77,7 +77,7 @@ Minor Emphasis in College of Arts & Letters and Science Honors Program
 + Completely and succinctly documented code with a primary emphasis on supportability by other developers;
 
 ### Programming Experience
-+ **programming and scripting languages**: excellence in python and bash; proficiency in R, C, C++, C#, Java, (Postgre)SQL, xpath, FORTRAN, Matlab, Octave, Mathematica, (La)Tex, markdown, sweave, PowerShell; and experience with Ruby/Rails, Julia, JavaScript, CSS, html, OpenGL;
++ **programming and scripting languages**: excellence in python and bash; proficiency in R, C, C++, (Postgre)SQL, xpath, and experience with C#, Java,Ruby/Rails, FORTRAN, Matlab, Octave, Mathematica, (La)Tex, markdown, sweave, PowerShell, Julia, JavaScript, CSS, html, OpenGL;
 + **special focus areas and code libraries**: scientific python stack (Numpy, SciPy, Pandas, scikit-learn, matplotlib, plotly, ipython/jupyter), python web development (flask and tornado), C++ Boost libraries;
 + **devlopment and system administration tools**: emacs (w ESS), vim (if I must), Eclipse, putty, git, github, Atlassian tools (JIRA, Confluence), SOS Open Source Job Scheduler, Zenoss, Graylog, WireShark;
 + **data transport, serialization and configuration**: XML, SOAP, JSON, YAML, Google ProtocolBuffers, KML, GeoJSON, FIX, html and RESTful APIs; 

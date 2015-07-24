@@ -116,6 +116,7 @@ Minor Emphasis in College of Arts & Letters and Science Honors Program
 
 ### Other Activities
 
++ Creator of the "Cornell Physics Graduate Society Coffe Hour Email", a tradition which has lived on since I left. See the catalogue of emails [here](http://pages.physics.cornell.edu/~rlamberty/CoffeeHour/)
 + Ithaca Big Brothers Big Sisters volunteer
 + American Physical Society member
 + Cornell Intramural Flag Football Champion

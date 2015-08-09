@@ -3,6 +3,8 @@ layout: page
 permalink: /resume/
 ---
 
+*a condensed PDF version of this information can be found [here](https://github.com/RZachLamberty/RZachLamberty.github.io/raw/master/files/data_science_2015_08.pdf)* 
+
 ## R Zachary Lamberty
 [r.zach.lamberty@gmail.com](mailto:r.zach.lamberty@gmail.com)  
 [(574) 514 - 1012](tel:574-514-1012)

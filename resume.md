@@ -10,13 +10,11 @@ permalink: /resume/
 [(574) 514 - 1012](tel:574-514-1012)
 
 ## Profile
-I am a passionate and resourceful problem solver and data hacker with analytical acumen and experience in high-performance, rapid-response environments. I am looking for the opportunity to apply my analytic, strategic, and programmatic skills to fast-paced, real-world problems by developing fascinating, robust, and creative applications. My primary skills are:  
+I am a passionate and resourceful problem solver and data hacker with analytical acumen and experience in high-performance, rapid-response environments. *I want to build meaningful, useful applications*. My primary skills are:  
 
-+ Creative, flexible, and rapid problem analysis and response
++ Creative, flexible, and rapid problem analysis
 + An ability to learn anything, proficiently and quickly.
 + A knack for to-the-point communication
-+ A no-nonsense, can-do attitude toward group problem solving
-+ Excellent interpersonal and communication skills
 + A driven, independent work ethic
 
 ## Primary Professional Experience

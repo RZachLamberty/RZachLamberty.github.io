@@ -16,3 +16,9 @@
     <meta property="og:title" content="{{ page.title }}" />
     <meta property="twitter:title" content="{{ page.title }}" />
     {% endif %}
+
+    {% if page.keywords %}
+    <meta property="keywords" content="{{ page.keywords }}" />
+    {% else %}
+    <meta property="keywords" content="data, science, software, developer, open, source, learning, python, r" />
+    {% endif %}

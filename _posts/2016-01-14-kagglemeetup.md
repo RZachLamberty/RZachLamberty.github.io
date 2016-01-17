@@ -2,7 +2,7 @@
 layout: post
 title: Kaggle Learns, Too
 exerpt: "Anthony Goldblum, founder and CEO of Kaggle talks about the models that win"
-keywords: "kaggle, dc, district, columbia, statistics, machine, learning, neural, networks, xgboost, gradient"
+keywords: "kaggle, dc, district, columbia, statistics, machine, learning, neural, networks, xgboost, gradient, empanadas, ziplock, douchebag"
 ---
 
 This was definitely the buzziest meetup I attended this week, but hey: how do you get to be a nerdhero without a few buzz words? The CEO of Kaggle (Anthony Goldblum) came to talk to the Statistical Programming DC / Data Science DC about two things:

@@ -14,4 +14,10 @@ layout: default
   </div>
 
   {% include disqus.html %}
+
+  {% if page.keywords %}
+  <div class="keywords">
+    Keywords: {{ page.keywords }}
+  </div>
+  {% endif %}
 </article>

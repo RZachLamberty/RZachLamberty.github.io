@@ -1,7 +1,7 @@
 ---
 layout: post
 title: DC NLP Meetup
-exerpt: "zach lamberty went to the District of Columbia Natural Language Processing meetup event in which brian sacash talked about his udemy course on senitment analysis"
+excerpt: "Our hero went to the District of Columbia Natural Language Processing meetup event in which brian sacash talked about his udemy course on senitment analysis"
 keywords: "dcnlp, nlp, meetup, sentiment, analysis, udemy, natural, language, processing"
 ---
 

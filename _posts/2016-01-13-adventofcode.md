@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Advent of Code
-exerpt: "zach lamberty did the advent of code programming challenges and thought they were the bomb-diddly-omski"
+excerpt: "Our hero did the advent of code programming challenges and thought they were the bomb-diddly-omski"
 keywords: "advent, code, python, puzzle, game"
 permalink: adventofcode
 ---

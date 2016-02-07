@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Black Hat Data Wrangler
-exerpt: "zach lamberty went to the Data Wrangler meetup event in which different levels of data obfuscation methods are presented (as well as means of overcoming or subverting them)"
+excerpt: "Our hero went to the Data Wrangler meetup event in which different levels of data obfuscation methods are presented (as well as means of overcoming or subverting them)"
 keywords: "data, wrangle, wrangling, black, hat, white, obfuscate, obfuscation, python, selenium, ocr, ocropus, pdf, font remapping"
 ---
 

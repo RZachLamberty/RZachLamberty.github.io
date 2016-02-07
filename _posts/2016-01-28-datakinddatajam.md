@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Come on and SLAM, and welcome to the JAM
-exerpt: "DataKindDC brings together a group of noble data wranglers for to do most good please"
+excerpt: "DataKindDC brings together a group of noble data wranglers for to do most good please"
 keywords: "data, datakind, dc, district, columbia, statistics, wrangling, social, hacking, meetup"
 ---
 

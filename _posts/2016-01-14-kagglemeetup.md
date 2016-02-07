@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Kaggle Learns, Too
-exerpt: "Anthony Goldblum, founder and CEO of Kaggle talks about the models that win"
+excerpt: "Anthony Goldblum, founder and CEO of Kaggle talks about the models that win"
 keywords: "kaggle, dc, district, columbia, statistics, machine, learning, neural, networks, xgboost, gradient, empanadas, ziplock, douchebag"
 ---
 

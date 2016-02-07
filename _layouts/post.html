@@ -3,7 +3,30 @@ layout: default
 ---
 
 <article class="post">
+  <div class="PostPageNavigation">
+    {% if page.previous.url %}
+      <a class="prev" href="{{ page.previous.url}} ">&laquo; {{page.previous.title}}</a>
+    {% endif %}
+    {% if page.next.url %}
+      <a class="next" href="{{ page.next.url}} ">{{page.next.title}} &raquo;</a>
+    {% endif %}
+  </div>
+
   <h1>{{ page.title }}</h1>
+
+  {% if page.series %}
+  <div class="series">
+    {% assign sorted_series = (site.posts | where: "series", page.series | sort: "part")%}
+    <p>This article is part {{page.part}} in a series on <strong>{{page.series}}</strong>. If this is your bag, check out</p>
+    <ul>
+      {% for post in sorted_series %}
+        <li>
+          {% if post.url != page.url %}<a href="{{ site.baseurl }}{{ post.url }}">Part {{post.part}}</a>{% else %}Part {{post.part}}{% endif %}: {{post.excerpt}}
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+  {% endif %}
 
   <div class="entry">
     {{ content }}

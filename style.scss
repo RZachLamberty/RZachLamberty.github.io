@@ -298,3 +298,40 @@ footer {
     font-size: 14px;
     color: $gray;
 }
+
+.series {
+    font-style: italic;
+    font-size: 14px;
+}
+
+.series > p, ul {
+    margin: 0;
+}
+
+.PostPageNavigation {
+    font-size: 14px;
+    display: block;
+    width: auto;
+    overflow: hidden;
+}
+
+.PostPageNavigation a {
+    display: block;
+    width: 50%;
+    float: left;
+    margin: 1em 0;
+}
+
+.PostPageNavigation .next {
+    text-align: right;
+}
+
+// I want to put the post navigation just below the top line, so I will swap
+// the massive bottom margin of the masthead with a bottom margin on my post
+// page navigator instea
+.wrapper-masthead {
+    margin-bottom: 0;
+}
+h1 {
+    margin: 15px 0;
+}

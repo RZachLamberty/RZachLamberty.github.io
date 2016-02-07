@@ -54,6 +54,8 @@ baseurl: ""
 #
 
 markdown: kramdown
+kramdown:
+  use_coderay: true
 highlighter: rouge
 permalink: /:title/
 
